@@ -1,0 +1,101 @@
+Date,Product,Category,Quantity Sold,Unit Price,Total Sales,Region
+2024-03-05,Headphones,Accessories,14,100,1400,South
+2024-03-25,Smartphone,Electronics,10,600,6000,South
+2024-03-18,Laptop,Electronics,19,800,15200,North
+2024-02-21,Headphones,Accessories,18,100,1800,South
+2024-02-23,Laptop,Electronics,10,800,8000,West
+2024-03-09,Sneakers,Footwear,14,120,1680,West
+2024-03-14,Jacket,Clothing,2,90,180,South
+2024-02-16,Monitor,Electronics,16,300,4800,North
+2024-02-28,Smartwatch,Accessories,10,250,2500,South
+2024-03-20,Backpack,Bags,9,50,450,North
+2024-01-07,Desk Chair,Furniture,15,150,2250,East
+2024-01-10,Backpack,Bags,19,50,950,West
+2024-01-31,Headphones,Accessories,15,100,1500,South
+2024-01-02,Sneakers,Footwear,6,120,720,West
+2024-02-17,Sneakers,Footwear,18,120,2160,North
+2024-01-28,Jacket,Clothing,2,90,180,East
+2024-03-29,Backpack,Bags,18,50,900,North
+2024-02-09,Laptop,Electronics,10,800,8000,East
+2024-01-07,Backpack,Bags,18,50,900,South
+2024-01-02,Tablet,Electronics,9,400,3600,North
+2024-01-19,Laptop,Electronics,20,800,16000,East
+2024-01-13,Sneakers,Footwear,19,120,2280,West
+2024-03-15,Backpack,Bags,14,50,700,North
+2024-02-17,Desk Chair,Furniture,20,150,3000,North
+2024-03-27,Desk Chair,Furniture,20,150,3000,East
+2024-02-05,Sneakers,Footwear,11,120,1320,North
+2024-01-19,Laptop,Electronics,11,800,8800,South
+2024-02-23,Backpack,Bags,13,50,650,West
+2024-03-20,Smartwatch,Accessories,20,250,5000,North
+2024-02-01,Tablet,Electronics,6,400,2400,North
+2024-02-08,Sneakers,Footwear,3,120,360,North
+2024-01-03,Headphones,Accessories,11,100,1100,North
+2024-02-22,Monitor,Electronics,16,300,4800,East
+2024-02-22,Smartphone,Electronics,3,600,1800,East
+2024-01-19,Desk Chair,Furniture,1,150,150,West
+2024-01-16,Smartwatch,Accessories,17,250,4250,South
+2024-03-23,Smartphone,Electronics,7,600,4200,North
+2024-01-09,Headphones,Accessories,6,100,600,North
+2024-01-07,Headphones,Accessories,4,100,400,North
+2024-02-20,Smartwatch,Accessories,1,250,250,South
+2024-03-17,Headphones,Accessories,14,100,1400,South
+2024-03-28,Monitor,Electronics,14,300,4200,West
+2024-01-28,Monitor,Electronics,3,300,900,East
+2024-01-10,Tablet,Electronics,8,400,3200,South
+2024-03-23,Smartwatch,Accessories,7,250,1750,South
+2024-03-03,Laptop,Electronics,14,800,11200,East
+2024-02-28,Sneakers,Footwear,9,120,1080,West
+2024-03-18,Jacket,Clothing,9,90,810,East
+2024-03-15,Smartwatch,Accessories,8,250,2000,North
+2024-02-13,Backpack,Bags,2,50,100,West
+2024-02-22,Smartwatch,Accessories,4,250,1000,West
+2024-02-17,Desk Chair,Furniture,2,150,300,North
+2024-01-26,Backpack,Bags,3,50,150,East
+2024-03-07,Sneakers,Footwear,18,120,2160,West
+2024-03-30,Backpack,Bags,8,50,400,West
+2024-03-27,Smartphone,Electronics,20,600,12000,South
+2024-01-22,Monitor,Electronics,1,300,300,North
+2024-01-24,Backpack,Bags,19,50,950,West
+2024-02-24,Desk Chair,Furniture,15,150,2250,North
+2024-02-27,Jacket,Clothing,13,90,1170,North
+2024-03-05,Jacket,Clothing,7,90,630,North
+2024-02-01,Sneakers,Footwear,6,120,720,East
+2024-01-13,Headphones,Accessories,13,100,1300,East
+2024-03-11,Laptop,Electronics,9,800,7200,West
+2024-01-08,Laptop,Electronics,9,800,7200,East
+2024-02-12,Headphones,Accessories,6,100,600,West
+2024-02-15,Smartphone,Electronics,15,600,9000,South
+2024-01-09,Backpack,Bags,2,50,100,South
+2024-03-19,Headphones,Accessories,7,100,700,West
+2024-01-08,Smartwatch,Accessories,12,250,3000,North
+2024-03-25,Smartphone,Electronics,18,600,10800,South
+2024-01-13,Laptop,Electronics,5,800,4000,West
+2024-03-06,Tablet,Electronics,18,400,7200,North
+2024-03-01,Laptop,Electronics,14,800,11200,East
+2024-03-31,Desk Chair,Furniture,2,150,300,West
+2024-03-02,Jacket,Clothing,12,90,1080,East
+2024-03-17,Smartwatch,Accessories,7,250,1750,South
+2024-03-30,Tablet,Electronics,4,400,1600,North
+2024-02-01,Tablet,Electronics,16,400,6400,East
+2024-01-02,Tablet,Electronics,6,400,2400,West
+2024-01-01,Smartwatch,Accessories,12,250,3000,North
+2024-01-09,Jacket,Clothing,19,90,1710,East
+2024-01-09,Jacket,Clothing,10,90,900,North
+2024-01-09,Headphones,Accessories,12,100,1200,East
+2024-01-03,Laptop,Electronics,6,800,4800,South
+2024-01-02,Backpack,Bags,1,50,50,East
+2024-01-13,Tablet,Electronics,19,400,7600,East
+2024-02-20,Smartwatch,Accessories,13,250,3250,East
+2024-02-19,Monitor,Electronics,19,300,5700,East
+2024-01-24,Jacket,Clothing,20,90,1800,West
+2024-01-31,Backpack,Bags,9,50,450,North
+2024-02-02,Backpack,Bags,15,50,750,West
+2024-02-26,Headphones,Accessories,4,100,400,East
+2024-02-23,Desk Chair,Furniture,6,150,900,North
+2024-03-11,Tablet,Electronics,5,400,2000,North
+2024-01-15,Headphones,Accessories,19,100,1900,West
+2024-02-11,Backpack,Bags,9,50,450,West
+2024-03-29,Headphones,Accessories,11,100,1100,East
+2024-03-19,Smartwatch,Accessories,5,250,1250,West
+2024-03-01,Smartphone,Electronics,11,600,6600,East
