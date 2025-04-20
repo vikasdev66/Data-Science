@@ -1,0 +1,8 @@
+2025-04-20 11:52:04-ArithmeticApp-DEBUG-Adding 10+15 = 25 
+2025-04-20 11:52:04-ArithmeticApp-DEBUG-Subtracting 15-10 = 5
+2025-04-20 11:52:04-ArithmeticApp-DEBUG-Multiplying 10*20 = 200
+2025-04-20 11:52:04-ArithmeticApp-DEBUG-divide 20/10 = 2.0
+2025-04-20 12:01:23-ArithmeticApp-DEBUG-Adding 10+15 = 25 
+2025-04-20 12:01:23-ArithmeticApp-DEBUG-Subtracting 15-10 = 5
+2025-04-20 12:01:23-ArithmeticApp-DEBUG-Multiplying 10*20 = 200
+2025-04-20 12:01:23-ArithmeticApp-ERROR-Devision by zero error
